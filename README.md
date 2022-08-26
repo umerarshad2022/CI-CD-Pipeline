@@ -1,6 +1,7 @@
 ### CI-CD-Pipeline
 - CI/CD Pipeline for Flask ML Deploy
-- Clone the repo using Azure cloud, using git commands
+- Generate SSH keys and connect your Azure environment with your Github account.
+- Clone the repo using Azure cloud, and git commands
 ![Make_all](https://user-images.githubusercontent.com/111645872/186910526-f8fe2cba-57cb-4314-a7d9-b3282d7b25bd.JPG)
 - Make a new project in Microsoft Azure, define organization and connect to Github repo.
 - Create environment variable and activate it using python3.
